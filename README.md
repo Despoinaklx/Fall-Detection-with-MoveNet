@@ -12,6 +12,11 @@ The project is organized into the following modules:
 -   **`utils.py`**: Contains utility functions, in this case only a logging function.
 -   **`falls.log`**: File where fall detections are logged.
 
+There is also a **test_1st_approach** folder , with  :
+- **`fall`** dataset
+- **`no_fall`** dataset
+- **`test.py`** : classification performance
+
 ## Requirements
 
 -   **Python 3.6 or higher**
