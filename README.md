@@ -12,10 +12,13 @@ The project is organized into the following modules:
 -   **`utils.py`**: Contains utility functions, in this case only a logging function.
 -   **`falls.log`**: File where fall detections are logged.
 
-There is also a **test_1st_approach** folder , with  :
-- **`fall`** dataset                           https://drive.google.com/drive/folders/1sXZ3oKdmdfrku2IpATMXC5SW3qEgaUE7?usp=drive_link
-- **`no_fall`** dataset                        https://drive.google.com/drive/folders/1LXS3OBtgv3RFs3o7Br5TLXJOw4PAtv5y?usp=drive_link
-- **`test.py`** : classification performance
+There is also a **test.py** file for classification performance. 
+
+I used these datasets 
+
+- **`fall`**                          https://drive.google.com/drive/folders/1sXZ3oKdmdfrku2IpATMXC5SW3qEgaUE7?usp=drive_link
+- **`no_fall`**                       https://drive.google.com/drive/folders/1LXS3OBtgv3RFs3o7Br5TLXJOw4PAtv5y?usp=drive_link
+
 
 ## Requirements
 
