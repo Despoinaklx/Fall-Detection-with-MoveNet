@@ -1,4 +1,4 @@
-# Fall Detection System using MoveNet
+# Fall Detection System using MoveNet and functions with velocity & orientation
 
 This project implements a fall detection system using the MoveNet pose estimation model and computer vision techniques. It processes video input, identifies key body points, calculates orientation and speed, and detects falls based on predefined thresholds.
 
